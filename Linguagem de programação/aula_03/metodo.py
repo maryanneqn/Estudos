@@ -1,0 +1,8 @@
+x = input("digite algo:")
+print("é um némero?", x.isnumeric())
+print("é um alfanumerico(números e letras)?", x.isalnum())
+print("é um alfabético(letras)?", x.isalpha())
+print("está em minusculo?", x.islower())
+print("está em maiúsculo?", x.isupper())
+print("é somente espaço?", x.isspace())
+print("esta capitalizada (possui maiúsculas e minusculas)", x.istitle())
