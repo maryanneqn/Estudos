@@ -1,0 +1,31 @@
+﻿Informativos para o caderno:
+
+
+Slide 1 – Visão Macro
+Arquitetura pensa no sistema inteiro: como partes se conectam e funcionam juntas, não apenas no código.
+Slide 2 – Estrutura do Sistema
+Todo sistema tem três partes principais: processamento (lógica), dados (informação) e conectores (comunicação entre partes).
+Slide 3 – Diagrama de Componentes
+Mostra como os módulos do software se organizam e dependem uns dos outros.
+Slide 4 – Diagrama de Implantação
+Mostra onde o sistema roda: servidores, computadores, rede e infraestrutura.
+Slide 5 – Cliente-Servidor
+O cliente pede informações e o servidor processa e responde. Exemplo: navegador acessando um site.
+Slide 6 – Monolito
+Toda a aplicação funciona como um único bloco. Simples no início, mas difícil de escalar.
+Slide 7 – Microsserviços
+Sistema dividido em pequenos serviços independentes que se comunicam por APIs.
+Slide 8 – MVC
+MVC separa dados, interface e controle para organizar melhor aplicações.
+
+
+Tópicos para o mapa mental:
+
+
+1 - O que é a arquitetura de software?
+2 - Diagrama de componentes 
+3 - Diagrama de implantação.
+4 - Cliente - Servidor
+5 - Monolito
+6 - Microsserviços
+7 - MVC (model - view - controller)

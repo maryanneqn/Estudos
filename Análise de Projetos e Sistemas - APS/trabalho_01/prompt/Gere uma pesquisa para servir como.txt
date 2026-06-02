@@ -1,0 +1,7 @@
+Gere uma pesquisa para servir como "fonte" para uma apresentação para alunos de um curso técnico em informática que esta cursando o terceiro e ultimo modulo do curso, com a matéria analise de projeto de sistemas. Esta pesquisa deve idealizar uma apresentação baseada nos tópicos: 
+- O que é Arquitetura: definindo que é uma base de organização de como deve funcionar os componentes do sistema. e não só um código. 
+- Diagramas físicos: Mostrar que a forma de desenhar a arquitetura é através dos diagramas de componentes e implantação.
+- Os Grandes Padrões: citando três principais:
+1- Cliente/Servidor: : A separação clássica (Front/Back).
+2- Monolito vs. Microsserviços: A discussão mais importante do mercado atual. Explicar o "tudão" (Monolito) versus o "dividido" (Microsserviços).
+3- MVC (Model-View-Controller): Padrão essencial para web.
